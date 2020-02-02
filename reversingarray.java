@@ -6,8 +6,6 @@ import java.util.*;
         Integer [] arr = {10, 20, 30, 40, 50}; 
         reverse(arr); 
     } 
-
-  
     static void reverse(Integer a[]) 
     { 
         Collections.reverse(Arrays.asList(a)); 
